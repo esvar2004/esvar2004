@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @esvar2004
 
-- 👀 I’m interested in Java, and I am in the preliminary stages of learning other languages, 
-and I look forward to helping and most importantly, learning the unique applications of Github.
+- 👀 I’m interested in Java, Python, Javascript, and I look forward to helping and most importantly, learning the unique applications of Github.
 
 - 🌱 I’m currently learning Python, ML in my own time; however, I certainly want to get involved and 
 truly contribute to projects firsthand to gain some invaluable experience.
