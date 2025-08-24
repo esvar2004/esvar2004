@@ -4,7 +4,16 @@
 
 I'm a passionate software developer from Singapore, currently in my final year at Nanyang Technological University (Computer Science). I specialize in building robust, scalable, and intelligent applications, from AI-driven learning platforms and recommendation systems to full-stack web and mobile apps.
 
-## 🚀 Featured Projects
+## 🛠️ Key Skills & Tech Stack Familiarities
+
+- **Languages:** TypeScript, Python, JavaScript, C#, Java, SQL, Jupyter, CSS
+- **Frameworks:** Next.js, React, FastAPI, Django, Unity, Tailwind, Celery, Docker
+- **Databases:** Supabase/PostgreSQL, Redis, SQLite
+- **AI/ML:** LLM API Integration, TensorFlow, LangChain, NLP, Recommendation Systems
+- **DevOps & Tools:** Git, Vercel, Docker, GCP, REST APIs, AWS
+
+<details>
+  <summary><strong>🚀 Featured Projects</strong></summary>
 
 - **"Title Currently in the Works"**  
   *Founder, Technical Lead*  
@@ -26,10 +35,5 @@ I'm a passionate software developer from Singapore, currently in my final year a
   *NLP/AI Research*  
   Created emotion classification models using LSTM/transformers, data engineering with Kaggle/HuggingFace, and novel interfaces for user feedback [Python, LangChain].
 
-## 🛠️ Key Skills & Tech
+</details>
 
-- **Languages:** TypeScript, Python, JavaScript, C#, Java, SQL, Jupyter, CSS
-- **Frameworks:** Next.js, React, FastAPI, Django, Unity, Tailwind, Celery, Docker
-- **Databases:** Supabase/PostgreSQL, Redis, SQLite
-- **AI/ML:** LLM API Integration, TensorFlow, LangChain, NLP, Recommendation Systems
-- **DevOps & Tools:** Git, Vercel, Docker, GCP, REST APIs, AWS
