@@ -2,7 +2,7 @@
 
 **AI/ML Engineer | Builder of EdTech, Productivity, and Platform Solutions**
 
-I'm a passionate software developer from Singapore, currently in my final year at Nanyang Technological University (Computer Science). I specialize in building robust, scalable, and intelligent applications, from AI-driven learning platforms and recommendation systems to full-stack web and mobile apps.
+I'm a passionate software developer from Singapore. I recently graduated from Nanyang Technological University (Computer Science, First Class Honours). I specialize in building robust, scalable, and intelligent applications, from AI-driven learning platforms and recommendation systems to full-stack web and mobile apps.
 
 ## 🛠️ Key Skills & Tech Stack Familiarities
 
