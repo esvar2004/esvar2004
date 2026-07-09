@@ -15,7 +15,7 @@ I'm a passionate software developer from Singapore. I recently graduated from Na
 <details>
   <summary><strong>🚀 Featured Projects</strong></summary>
 
-- **"Title Currently in the Works"**  
+- **Lumerva**  
   *Founder, Technical Lead*  
   Built an AI-powered, next-gen educational platform that turns *any topic* into a personalized learning journey. More information coming soon.
 
